@@ -11,3 +11,4 @@ cd Fuck-AWS
 chmod a+x fuck_aws.sh
 ./fuck_aws.sh
 ```
+Type the number corresponding to your choice and it will get exported as list.txt ??? Profit!

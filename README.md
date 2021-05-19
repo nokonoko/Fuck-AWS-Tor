@@ -16,3 +16,6 @@ Type the number corresponding to your choice and it will get exported as list.tx
 ???
 
 Profit!
+
+# To-do
+* Add option to add to iptables/ufw?

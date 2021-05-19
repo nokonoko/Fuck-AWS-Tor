@@ -1,5 +1,5 @@
 # About
-Script to download and format all AWS IPv4 ranges, and the option to format it as a Nginx deny list.
+Script to download all AWS IPv4 ranges, and the option to format it as a Nginx deny list or just plain text.
 
 # Dependencies
 jq, wget, awk

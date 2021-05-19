@@ -1,4 +1,4 @@
-# Fuck-AWS
+# About
 Script to download and format AWS IPv4 ranges as a plain file or Nginx deny list.
 
 # Usage

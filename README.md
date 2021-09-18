@@ -6,7 +6,7 @@ jq, wget, awk
 
 # Usage
 ```bash
-git clone https://github.com/nokonoko/Fuck-AWS
+git clone https://github.com/nokonoko/Fuck-AWS-Tor
 cd Fuck-AWS
 chmod a+x fuck_aws.sh
 bash fuck_aws.sh

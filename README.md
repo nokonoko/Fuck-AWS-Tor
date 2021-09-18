@@ -13,8 +13,3 @@ bash fuck_aws.sh
 chmod a+x fuck_tor.sh
 bash fuck_tor.sh
 ```
-Type the number corresponding to your choice and it will get exported as list.txt.
-
-???
-
-Profit!
